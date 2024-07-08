@@ -7,5 +7,15 @@ The Pentagon is the headquarters building of the United States Department of Def
 
 **Our Goals**
 1. To measure the temperature of the control center is monitored for fire detection
-2. To build a MorseCode to enter secret passphrase to the server room using LDR and 
-Light (PhoneTorch)
+2. To build a MorseCode to enter secret passphrase to the server room using LDR and Light (PhoneTorch)
+
+
+![G20C_PROJECT REPORT(CENTRAL CONTROL_CENTER)-images-0](https://github.com/Peramunage-Vihan/IOT-Security-System/assets/136991326/3d3532cb-8ff3-4740-9cdf-1423ab9e52e8)
+
+![G20C_PROJECT REPORT(CENTRAL CONTROL_CENTER)-images-1](https://github.com/Peramunage-Vihan/IOT-Security-System/assets/136991326/6f4aa525-36f2-40f4-8cd7-b38617c41e4f)
+
+
+
+
+
+
